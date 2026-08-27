@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**osiddiki/osiddiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** focused on backend systems, AI developer tooling, and workflow automation.
 
-Here are some ideas to get you started:
+📍 Plano, TX · 🎓 UT Dallas — B.S. Computer Science (2022–2025, completed in 3 years)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm building
+
+### 🔧 [GATE](https://github.com/osiddiki/ai-dev-pipeline) — Autonomous AI Development Pipeline
+An agentic release controller that orchestrates a team of AI agents (**plan → test → implement → verify → review**) in isolated git worktrees, with deterministic Docker verification and self-repair loops.
+
+`Python` · `Docker` · `SQLite` · `Aider` · `LiteLLM` · `MCP`
+
+### 🍜 [Yum AI](https://github.com/osiddiki/yummers) — LLM Recipe Generator
+Turns available ingredients + dietary constraints into structured recipes through prompt-driven generation.
+
+`Python` · `LLM APIs` · `Web`
+
+---
+
+## Experience
+
+| Role | Company | When |
+|---|---|---|
+| Software Engineer Intern | **Charles Schwab** | May–Aug 2025 |
+| Software Engineering Intern | **Brinks Home** | May 2024–Jan 2025 |
+| IT Support & Systems Specialist | **Perfect Balance Psychiatric Services** | 2025–present |
+
+> **Highlights:** built the CAD "Move" workflow at Brinks (collapsed a 1–2 hour multi-system process into a single automated flow), wrote Pega BDD regression tests at Schwab, and automated healthcare workflows at Perfect Balance.
+
+## Skills
+
+`Python` `Java` `C#` `C++` `SQL` `JavaScript` · `Docker` `REST APIs` `.NET MAUI` `FastAPI` `SQLite` `AWS` · `MCP` `LiteLLM` `ChromaDB` `Aider` `Cucumber` `Pega`
+
+---
+
+## Get in touch
+
+📫 `osiddiki.applications@gmail.com` · [LinkedIn](https://www.linkedin.com/in/osiddiki)
+
+*Open to new-grad Software Engineering & AI/ML roles.*
