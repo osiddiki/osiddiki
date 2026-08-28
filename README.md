@@ -2,7 +2,7 @@
 
 **Software Engineer** focused on backend systems, AI developer tooling, and workflow automation.
 
-📍 Plano, TX · 🎓 UT Dallas — B.S. Computer Science (2022–2025, completed in 3 years)
+📍 TX · 🎓 UT Dallas — B.S. Computer Science (
 
 ---
 
@@ -12,11 +12,6 @@
 An agentic release controller that orchestrates a team of AI agents (**plan → test → implement → verify → review**) in isolated git worktrees, with deterministic Docker verification and self-repair loops.
 
 `Python` · `Docker` · `SQLite` · `Aider` · `LiteLLM` · `MCP`
-
-### 🍜 [Yum AI](https://github.com/osiddiki/yummers) — LLM Recipe Generator
-Turns available ingredients + dietary constraints into structured recipes through prompt-driven generation.
-
-`Python` · `LLM APIs` · `Web`
 
 ---
 
