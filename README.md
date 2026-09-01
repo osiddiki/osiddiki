@@ -14,17 +14,6 @@ An agentic release controller that orchestrates a team of AI agents (**plan → 
 `Python` · `Docker` · `SQLite` · `Aider` · `LiteLLM` · `MCP`
 
 ---
-
-## Experience
-
-| Role | Company | When |
-|---|---|---|
-| Software Engineer Intern | **Charles Schwab** | May–Aug 2025 |
-| Software Engineering Intern | **Brinks Home** | May 2024–Jan 2025 |
-| IT Support & Systems Specialist | **Perfect Balance Psychiatric Services** | 2025–present |
-
-> **Highlights:** built the CAD "Move" workflow at Brinks (collapsed a 1–2 hour multi-system process into a single automated flow), wrote Pega BDD regression tests at Schwab, and automated healthcare workflows at Perfect Balance.
-
 ## Skills
 
 `Python` `Java` `C#` `C++` `SQL` `JavaScript` · `Docker` `REST APIs` `.NET MAUI` `FastAPI` `SQLite` `AWS` · `MCP` `LiteLLM` `ChromaDB` `Aider` `Cucumber` `Pega`
